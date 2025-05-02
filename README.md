@@ -1,6 +1,4 @@
-Here's a professional and comprehensive `README.md` description for a **Hospital Management System** that uses **Regex** and **NLP**. You can paste this directly into your GitHub repository:
 
----
 
 # 🏥 Hospital Management System using Regex and NLP
 
@@ -76,6 +74,4 @@ re.findall(r'\b\d{1,3}\s?(?:years?|yrs?)\b', text)
 
 This project is open source and available under the [MIT License](LICENSE).
 
----
 
-Would you like a version that includes badges (e.g., for license, Python version, etc.) or is this good to go?
